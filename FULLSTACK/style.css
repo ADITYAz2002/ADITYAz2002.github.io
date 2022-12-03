@@ -1,0 +1,6 @@
+div > ul,
+p {
+  color: red;
+  background-color: green;
+  font-size: x-large;
+}
